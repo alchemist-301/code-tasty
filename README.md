@@ -5,7 +5,7 @@ Un lugar para aprender de cocina mientras programamos recetas 🧑‍🍳
 ## ¿Qué comeremos hoy? 🧑🏽‍💻
 
 * ``` return Saludable && facil de hacer == True ; ```
-  * Tortitas de platano 🍌 .
+  * [Tortitas de platano 🍌 .](https://github.com/alchemist-301/code-tasty/blob/master/BananaTortitas.md)
   * Malteada de almendras 🥤 .
   * Galletas de Avena 🍪 .
   * Manzanitas ahogadas 🍏 .
