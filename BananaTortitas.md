@@ -2,8 +2,11 @@
 
 ## Ingredientes
 let platanos = 2🍌;
+
 let arina = 2🥄;
+
 let huevos = 2🥚;
+
 let martequilla = 1🥄 ;
 
 ## Preparacion
